@@ -38,10 +38,13 @@ THEN I find a concise, descriptive title
 
 ## Features
 
-Here is the link to the live site: 
+Here is the link to the live site: https://jbatcheller32.github.io/refactor-code/
 
-Below is a screen shot of the final product: 
+Below is a screenshot of the final product: 
 
+<img width="946" alt="screenshot-3-HW-01" src="https://github.com/jbatcheller32/refactor-code/assets/110508090/af578ac2-a233-4b6f-8416-b891f798ba2a">
+<img width="953" alt="screenshot-2-HW-01" src="https://github.com/jbatcheller32/refactor-code/assets/110508090/3b3a969d-6008-454b-8901-948255078458">
+<img width="943" alt="screenshot-1-HW-01" src="https://github.com/jbatcheller32/refactor-code/assets/110508090/9eb7ce0f-7996-4e55-ad3f-469db6d43a29">
 
 
 ---
