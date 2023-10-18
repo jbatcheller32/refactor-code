@@ -52,11 +52,13 @@ p {
 }
 
 .hero {
-    height: 875px;
+    height: 900px;
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
+    padding-left: 1px;
+    padding-right: 1px;
 }
 
 .float-left {
