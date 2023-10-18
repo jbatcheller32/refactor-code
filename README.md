@@ -3,8 +3,8 @@
 
 ## Description
 
-This webpage has been refactored to meet accessiblity standards and to improve the codebase for long-term susatinability. I have restructured some of the HTML elements, 
-as well as, consolodated the CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements. I have also included comments, so you can 
+This webpage has been refactored to meet accessibility standards and to improve the codebase for long-term sustainability. I have restructured some of the HTML elements, 
+as well as, consolidated the CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements. I have also included comments, so you can 
 view where the changes have been made. 
 
 
