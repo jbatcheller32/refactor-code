@@ -3,8 +3,8 @@
 
 ## Description
 
-This webpage has been refactored to meet accessiblity standards and to improve the codebase for long-term susatinability. I have restructured some of the HTML elements, 
-as well as, consolodated the CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements. I have also included comments, so you can 
+This webpage has been refactored to meet accessibility standards and to improve the codebase for long-term sustainability. I have restructured some of the HTML elements, 
+as well as, consolidated the CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements. I have also included comments, so you can 
 view where the changes have been made. 
 
 
@@ -39,11 +39,19 @@ THEN I find a concise, descriptive title
 ## Features
 
 Here is the link to the live site: https://jbatcheller32.github.io/refactor-code/
+<<<<<<< HEAD
 
 Below are a screen shots of the final product: 
 
 
+=======
 
+Below is a screenshot of the final product: 
+>>>>>>> b450af0cc52ec51e15927b28bb4043578472e6e0
+
+<img width="946" alt="screenshot-3-HW-01" src="https://github.com/jbatcheller32/refactor-code/assets/110508090/af578ac2-a233-4b6f-8416-b891f798ba2a">
+<img width="953" alt="screenshot-2-HW-01" src="https://github.com/jbatcheller32/refactor-code/assets/110508090/3b3a969d-6008-454b-8901-948255078458">
+<img width="943" alt="screenshot-1-HW-01" src="https://github.com/jbatcheller32/refactor-code/assets/110508090/9eb7ce0f-7996-4e55-ad3f-469db6d43a29">
 
 
 ---
