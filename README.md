@@ -38,9 +38,11 @@ THEN I find a concise, descriptive title
 
 ## Features
 
-Here is the link to the live site: 
+Here is the link to the live site: https://jbatcheller32.github.io/refactor-code/
 
-Below is a screen shot of the final product: 
+Below are a screen shots of the final product: 
+
+
 
 
 
